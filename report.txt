@@ -46,3 +46,7 @@ Added new analysis on the section.
 
 Update on 2025-03-26 13:31:02:
 Added new analysis on the section.
+
+
+Update on 2025-03-27 15:40:38:
+Training model with ERM, Constant and Exponential.
